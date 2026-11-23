@@ -22,5 +22,5 @@ GitHub Actions 负责把本地验证过的构建命令原样搬到云端执行�
 ## 与仓库其他部分的关系
 
 - 网站内容在 `docs/`。
-- 过程报告在 [report/README.md](../report/README.md)（GitHub 仓库内查看）。
+- 过程报告在仓库根目录的 `report/README.md`，不属于网站内容，因此不在导航中。
 - 本地预览命令见[使用指南](guide.md)。
